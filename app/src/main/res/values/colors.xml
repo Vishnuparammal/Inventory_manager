@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    colour of activity bar-->
+    <color name="colorPrimary">#000000</color>
+<!--    colour of notification bar-->
+    <color name="colorPrimaryDark">#000000</color>
+
+    <color name="colorAccent">#03DAC5</color>
+</resources>

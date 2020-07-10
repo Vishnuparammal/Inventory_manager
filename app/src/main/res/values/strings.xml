@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SRA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="intro">The Society of Robotics and Automation is a society for VJTI students under
+        the Department of Mechanical Engineering. The society conducts workshops like
+        Wall-E (Self Balancing and Line Following Robot) and MARIO (Robotic Manipulator controlled
+        using ROS) to teach the basics of robotics to first year students.</string>
+    <string name="contactus">Contact Us</string>>
+    <string name="contact">E-mail:\nsraworkshop@gmail.com\n\nWho to contact?\n\nGeneral
+         Secretary:\nLaukikHase\nlaukik17@gmail.com\n+91 98673 35549\n\nJoint-General Secretary:\nVednarayan
+        Iyer\nvednarayan29@gmail.com\n+91 83691 10314\n\nJoint-General Secretary:\nVishnu
+         Parammal\nvishnu.130599@gmail.com\n+91 86230 80351</string>
+    <string name="rating">We would love to hear from you</string>
+    <string name="submit">Submit</string>
+    <string name="feedback">Feedback</string>
+    <string name="share">Share</string>
+    <string name="share_text">I am loving this app. I recommend this to you as well. It will help you during hardware projets.</string>
+</resources>
