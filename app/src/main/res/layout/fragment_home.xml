@@ -16,7 +16,8 @@
             android:contentDescription="@string/app_name"
             android:src="@drawable/logo"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="@dimen/margin"/>
+            android:layout_marginBottom="@dimen/margin"
+            android:layout_marginTop="@dimen/margin"/>
 
         <TextView
             android:id="@+id/textView3"

@@ -7,7 +7,7 @@
         the Department of Mechanical Engineering. The society conducts workshops like
         Wall-E (Self Balancing and Line Following Robot) and MARIO (Robotic Manipulator controlled
         using ROS) to teach the basics of robotics to first year students.</string>
-    <string name="contactus">Contact Us</string>>
+    <string name="contact_us">Contact Us</string>>
     <string name="contact">E-mail:\nsraworkshop@gmail.com\n\nWho to contact?\n\nGeneral
          Secretary:\nLaukikHase\nlaukik17@gmail.com\n+91 98673 35549\n\nJoint-General Secretary:\nVednarayan
         Iyer\nvednarayan29@gmail.com\n+91 83691 10314\n\nJoint-General Secretary:\nVishnu
@@ -17,4 +17,13 @@
     <string name="feedback">Feedback</string>
     <string name="share">Share</string>
     <string name="share_text">I am loving this app. I recommend this to you as well. It will help you during hardware projets.</string>
+    <!-- Strings related to login -->
+    <string name="prompt_id">ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
