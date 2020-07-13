@@ -20,9 +20,4 @@
         android:name="com.example.sra.FeedbackFragment"
         android:label="Feedback"
         tools:layout="@layout/fragment_feedback" />
-    <fragment
-        android:id="@+id/loginFragment"
-        android:name="com.example.sra.ui.login.LoginFragment"
-        android:label="@string/action_sign_in_short"
-        tools:layout="@layout/fragment_login" />
 </navigation>

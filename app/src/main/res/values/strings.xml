@@ -26,4 +26,13 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="inventory">Inventory</string>
+    <string name="polls">Polls</string>
+    <string name="cash_request">Cash Request</string>
+    <string name="tasks">Tasks</string>
+    <string name="projects">Projects</string>
+    <string name="achievements">Achievements</string>
+    <string name="shops">Shops</string>
+    <string name="sign_in_as_guest">Sign in as Guest</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
