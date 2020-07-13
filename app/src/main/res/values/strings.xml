@@ -35,4 +35,9 @@
     <string name="shops">Shops</string>
     <string name="sign_in_as_guest">Sign in as Guest</string>
     <string name="sign_out">Sign Out</string>
+    <string name="item_name">Item name</string>
+    <string name="item_specs">Items specs</string>
+    <string name="item_quantity">Item quantity</string>
+    <string name="item_location">Item location</string>
+    <string name="add_item">Add Item</string>
 </resources>

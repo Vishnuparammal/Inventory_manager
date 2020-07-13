@@ -20,4 +20,18 @@
         android:name="com.example.sra.FeedbackFragment"
         android:label="Feedback"
         tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/inventoryFragment"
+        android:name="com.example.sra.InventoryFragment"
+        android:label="@string/inventory"
+        tools:layout="@layout/fragment_inventory">
+        <action
+            android:id="@+id/action_inventoryFragment_to_addInventoryFragment"
+            app:destination="@id/addInventoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addInventoryFragment"
+        android:name="com.example.sra.AddInventoryFragment"
+        android:label="@string/add_item"
+        tools:layout="@layout/fragment_add_inventory" />
 </navigation>
