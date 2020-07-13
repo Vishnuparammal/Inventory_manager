@@ -24,9 +24,8 @@ class MainActivity : AppCompatActivity() {
         val user = FirebaseAuth.getInstance().currentUser
         if (user != null) {
             val userEmail = user.email
-            if (userEmail == "guest@sra.com"){
-                binding.navView.getMenu().clear()
-                binding.navView.inflateMenu(R.menu.navdrawer_guest)
+            if (userEmail == "guest@sra.com") {
+                binding.navView.menu.setGroupVisible(R.id.member_menu, false)
             }
         }
 
