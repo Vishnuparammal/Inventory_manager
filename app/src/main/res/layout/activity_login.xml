@@ -13,10 +13,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin"
+            android:autofillHints=""
             android:ems="10"
             android:hint="@string/prompt_id"
             android:inputType="textEmailAddress"
-            android:autofillHints="" />
+            android:text="@string/myEmail" />
 
         <EditText
             android:id="@+id/editTextTextPassword"
@@ -25,8 +26,9 @@
             android:layout_marginTop="@dimen/margin"
             android:ems="10"
             android:hint="@string/prompt_password"
+            android:importantForAutofill="no"
             android:inputType="textPassword"
-            android:importantForAutofill="no" />
+            android:text="@string/myPassowrd" />
 
         <Button
             android:id="@+id/buttonSignIn"

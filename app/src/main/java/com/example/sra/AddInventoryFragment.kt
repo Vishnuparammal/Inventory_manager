@@ -36,7 +36,7 @@ class AddInventoryFragment : Fragment() {
             // Write a message to the database
             val database = FirebaseDatabase.getInstance().getReference("Inventory").child("$itemName $itemSpecs")
 
-            database.setValue(  inventoryItem(itemName, itemSpecs, itemQuantity, itemLocation)  )
+            database.setValue(  InventoryItem(itemName, itemSpecs, itemQuantity, itemLocation)  )
 
             binding.itemName.setText("")
             binding.itemSpecs.setText("")
